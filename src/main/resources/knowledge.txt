@@ -1,0 +1,52 @@
+========================================================================
+GLOBAL TECHNOLOGIES - HUMAN RESOURCES POLICY MANUAL
+Version: 2026.1
+Effective Date: January 1, 2026
+========================================================================
+
+[SECTION 1: WORK SCHEDULES, ATTENDANCE, AND LEAVE POLICY]
+
+1.1 Core Working Hours and Core Attendance
+The standard workweek consists of 5 days, from Monday through Friday. The official company operating hours are 09:00 AM to 06:00 PM IST. All backend engineering and core product development teams must observe "Core Collaboration Hours" between 11:00 AM and 04:00 PM IST daily, during which all synchronous cross-functional meetings, sprint planning, and system reviews must be scheduled. Employees are expected to log their attendance daily via the employee portal before 10:00 AM. Regular working hours require a minimum presence of 8 hours per day, exclusive of a 1-hour lunch break.
+
+1.2 Annual Leave Entitlement and Accrual
+Every permanent full-time employee is entitled to a total of 24 days of Paid Time Off (PTO) per calendar year, accrued at a rate of 2.0 days per completed month of service. The leave calendar runs from January 1 to December 31. Employees can carry over a maximum of 10 unused PTO days into the next calendar year; any additional accrued, unused leave beyond 10 days will automatically expire on December 31 without cash compensation. 
+
+1.3 Casual Leave, Sick Leave, and Approvals
+Out of the 24 annual PTO days, up to 7 days may be utilized as Casual Leave for sudden, short-duration personal commitments, and up to 7 days may be utilized as Sick Leave for medical recoveries. For planned regular leaves exceeding 3 consecutive business days, employees must submit a formal leave request via the HR portal at least 7 business days in advance. Emergency sick leaves must be reported to the reporting manager via email or corporate communication channels before 10:00 AM on the day of absence. A registered medical practitioner's certificate is mandatory for any sick leave extending beyond 3 consecutive working days.
+
+------------------------------------------------------------------------
+
+[SECTION 2: CODE OF CONDUCT, ANTI-HARASSMENT, AND ETHICS]
+
+2.1 Equal Employment Opportunity and Professional Diversity
+The company is committed to providing an environment free of discrimination, bias, and harassment. We maintain a zero-tolerance policy against any discrimination based on race, color, national origin, religion, age, sex, gender identity, sexual orientation, disability status, or veteran status. This policy applies to all aspects of employment, including recruitment, hiring, performance evaluations, promotions, terminations, compensation, and training structures.
+
+2.2 Prevention of Sexual Harassment (POSH)
+In strict compliance with statutory workplace regulations, the company maintains a dedicated Internal Complaints Committee (ICC) to address any grievances related to sexual harassment. Sexual harassment includes unwelcome physical contact, explicit sexual advances, demands or requests for sexual favors, showing pornography, or making unwelcome sexually colored remarks. Any employee found guilty of violating the POSH policy will face immediate disciplinary action, up to and including instantaneous termination of employment and legal prosecution. Grievances can be submitted securely and anonymously via email to posh.committee@company.com.
+
+2.3 Conflict of Interest and Secondary Employment
+Employees must avoid any relationship, financial investment, or external engagement that creates a conflict of interest with their duties at the company. Full-time employees are strictly prohibited from engaging in freelance contracts, side-gigs, secondary employment, or advisory boards for external entities without prior written approval from the Chief Human Resources Officer (CHRO) and the Legal Department. Utilizing company assets, code repositories, or hardware for external personal projects is strictly forbidden.
+
+------------------------------------------------------------------------
+
+[SECTION 3: INFORMATION SECURITY, IT POLICIES, AND DATA PROTECTION]
+
+3.1 Acceptable Use of Company Assets and Hardware
+All workstations, laptops, testing devices, network infrastructure, and soft licenses provided to employees remain the exclusive property of the company. Laptops must only be used for official business operations. Employees are prohibited from installing unauthorized third-party software, cracked applications, or peer-to-peer file-sharing software on company-issued endpoints. The IT Infrastructure department reserves the right to audit, monitor, and inspect corporate devices remotely at any time to guarantee security compliance.
+
+3.2 Data Privacy, Source Code, and Confidentiality
+All application source code, architectural system designs, APIs, customer databases, lead generation data, and intellectual property developed during the course of employment constitute "Highly Confidential Information." Employees must never upload corporate source code, data dumps, or configuration keys to public cloud repositories, personal GitHub profiles, or unauthorized public Generative AI models/prompts. Accessing database clusters or production environments via unsecured public Wi-Fi networks without an active, company-approved Virtual Private Network (VPN) connection is a severe security violation.
+
+3.3 Remote Work Security and Password Protocols
+Employees working under hybrid or remote work modules must ensure their home network configurations are secure. Default router passwords must be changed, and Wi-Fi networks must use WPA2 or WPA3 encryption protocols. All corporate accounts must utilize Mandatory Multi-Factor Authentication (MFA). Corporate account passwords must be a minimum of 14 characters, containing uppercase letters, lowercase letters, numbers, and special characters, and must be updated every 90 days. Sharing corporate credentials or MFA tokens with family members or colleagues is strictly prohibited.
+
+------------------------------------------------------------------------
+
+[SECTION 4: PERFORMANCE ASSESSMENTS AND APPRAISALS]
+
+4.1 Performance Evaluation Cycles
+Employee performance evaluations are conducted twice per year. The Mid-Year Review cycle occurs in July, focusing on qualitative performance feedback, goal adjustment, and tracking alignment. The Annual Review cycle occurs in January, evaluating end-to-end performance deliverables, technical upskilling progress, and key performance indicators (KPIs). Performance ratings are categorized on a 5-point scale: 1 - Unsatisfactory, 2 - Needs Improvement, 3 - Meets Expectations, 4 - Exceeds Expectations, and 5 - Outstanding.
+
+4.2 Promotion and Increment Eligibility
+To be eligible for annual salary increments and professional rank promotions, an employee must have completed a minimum of 12 months of continuous service with the company prior to the annual appraisal cycle. Employees who receive an overall performance rating of 1 or 2 will not be eligible for increments or promotions and will be placed on a structured 60-day Performance Improvement Plan (PIP) overseen by their engineering lead and HR partner.
