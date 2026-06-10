@@ -18,6 +18,7 @@ public class EmployeeDatabaseTool {
         this.employeeRepository = employeeRepository;
     }
 
+    @SuppressWarnings("null")
     @Tool("Fetches employee details and current leave balance from the HR database using their precise Employee ID.")
     public String getEmployeeDetails(
             @P("The exact alphanumeric employee ID, strictly formatted like 'EMP-1001'") String employeeId) {
