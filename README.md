@@ -79,6 +79,7 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 
 
+# databse setup docker composer file 
 docker run -d \
   --name pgvector-db \
   -e POSTGRES_USER=hr_admin \
